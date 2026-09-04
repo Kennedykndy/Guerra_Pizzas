@@ -1,0 +1,34 @@
+# Dependências instaladas
+**/node_modules/
+
+# Variáveis de ambiente locais e segredos
+**/.env
+**/.env.*
+!.env.example
+!**/.env.example
+
+# Logs e arquivos de diagnóstico
+**/*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Artefatos de build, testes e cobertura
+**/dist/
+**/build/
+**/coverage/
+
+# Cache e arquivos temporários
+**/.cache/
+**/.tmp/
+**/tmp/
+**/temp/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
