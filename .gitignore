@@ -1,5 +1,7 @@
 # Dependências instaladas
 **/node_modules/
+**/postman/
+**/.postman/
 
 # Variáveis de ambiente locais e segredos
 **/.env
