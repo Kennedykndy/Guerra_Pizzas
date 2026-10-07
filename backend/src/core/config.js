@@ -4,7 +4,7 @@ const config = {
   port: Number(process.env.PORT) || 3000,
 
   database: {
-    database: "./database.sqlite",
+    database: "./guerra_pizzas.sqlite",
   },
 };
 
